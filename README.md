@@ -20,6 +20,8 @@ All diagrams are in the `drawings/` directory. Open any `.excalidraw` file at [e
 
 ### 1. Microservices Architecture with Real API Contracts
 
+![Microservices Architecture](drawings/01-microservices-architecture.png)
+
 **File:** [`drawings/01-microservices-architecture.excalidraw`](drawings/01-microservices-architecture.excalidraw)
 
 **Prompt:**
@@ -30,6 +32,8 @@ All diagrams are in the `drawings/` directory. Open any `.excalidraw` file at [e
 ---
 
 ### 2. Git Branching Strategy
+
+![Git Branching Strategy](drawings/02-git-branching-strategy.png)
 
 **File:** [`drawings/02-git-branching-strategy.excalidraw`](drawings/02-git-branching-strategy.excalidraw)
 
@@ -42,6 +46,8 @@ All diagrams are in the `drawings/` directory. Open any `.excalidraw` file at [e
 
 ### 3. OAuth 2.0 Authorization Code Flow
 
+![OAuth 2.0 Authorization Code Flow](drawings/03-oauth2-auth-code-flow.png)
+
 **File:** [`drawings/03-oauth2-auth-code-flow.excalidraw`](drawings/03-oauth2-auth-code-flow.excalidraw)
 
 **Prompt:**
@@ -52,6 +58,8 @@ All diagrams are in the `drawings/` directory. Open any `.excalidraw` file at [e
 ---
 
 ### 4. Data Pipeline — Raw to Dashboard
+
+![Data Pipeline](drawings/04-data-pipeline.png)
 
 **File:** [`drawings/04-data-pipeline.excalidraw`](drawings/04-data-pipeline.excalidraw)
 
@@ -64,6 +72,8 @@ All diagrams are in the `drawings/` directory. Open any `.excalidraw` file at [e
 
 ### 5. Decision Tree — Incident Response
 
+![Incident Response Decision Tree](drawings/05-incident-response-decision-tree.png)
+
 **File:** [`drawings/05-incident-response-decision-tree.excalidraw`](drawings/05-incident-response-decision-tree.excalidraw)
 
 **Prompt:**
@@ -74,6 +84,8 @@ All diagrams are in the `drawings/` directory. Open any `.excalidraw` file at [e
 ---
 
 ### 6. React Component Lifecycle with Hooks
+
+![React Component Lifecycle](drawings/06-react-component-lifecycle.png)
 
 **File:** [`drawings/06-react-component-lifecycle.excalidraw`](drawings/06-react-component-lifecycle.excalidraw)
 
@@ -86,6 +98,8 @@ All diagrams are in the `drawings/` directory. Open any `.excalidraw` file at [e
 
 ### 7. Kubernetes Pod Scheduling
 
+![Kubernetes Pod Scheduling](drawings/07-kubernetes-pod-scheduling.png)
+
 **File:** [`drawings/07-kubernetes-pod-scheduling.excalidraw`](drawings/07-kubernetes-pod-scheduling.excalidraw)
 
 **Prompt:**
@@ -96,6 +110,8 @@ All diagrams are in the `drawings/` directory. Open any `.excalidraw` file at [e
 ---
 
 ### 8. Event Sourcing vs CRUD — Side-by-Side Comparison
+
+![Event Sourcing vs CRUD](drawings/08-event-sourcing-vs-crud.png)
 
 **File:** [`drawings/08-event-sourcing-vs-crud.excalidraw`](drawings/08-event-sourcing-vs-crud.excalidraw)
 
@@ -108,6 +124,8 @@ All diagrams are in the `drawings/` directory. Open any `.excalidraw` file at [e
 
 ### 9. CI/CD Pipeline with Failure Paths
 
+![CI/CD Pipeline](drawings/09-cicd-pipeline.png)
+
 **File:** [`drawings/09-cicd-pipeline.excalidraw`](drawings/09-cicd-pipeline.excalidraw)
 
 **Prompt:**
@@ -118,6 +136,8 @@ All diagrams are in the `drawings/` directory. Open any `.excalidraw` file at [e
 ---
 
 ### 10. LLM RAG Architecture — Query to Answer
+
+![LLM RAG Architecture](drawings/10-llm-rag-architecture.png)
 
 **File:** [`drawings/10-llm-rag-architecture.excalidraw`](drawings/10-llm-rag-architecture.excalidraw)
 
